@@ -1,10 +1,9 @@
 #include <iostream>
-
+#include "9.h"
 using namespace std;
 
-class Solution {
-	int main()
-	{
-
-	}
+int main()
+{
+	cout << boolalpha << Nine::isPalindrome(323) << endl;
+	return 0;
 }
