@@ -6,4 +6,4 @@ class Twenty
 {
 public:
 	static bool isValid(std::string s);
-}
+};
