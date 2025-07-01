@@ -6,9 +6,7 @@ using namespace std;
 
 int main()
 {
-	//cout << boolalpha << Nine::isPalindrome(323) << endl;
-	//cout << Thirteen::romanToInt("DCXXI");
-	vector<string> strs = { "flower", "flow", "flight" };
-	cout << Fourteen::longestCommonPrefix(strs);
+	int test = 3 / 2;
+	cout << test;
 	return 0;
 }

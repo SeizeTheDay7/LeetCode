@@ -131,11 +131,13 @@
     <ClCompile Include="2.cpp" />
     <ClCompile Include="20.cpp" />
     <ClCompile Include="3.cpp" />
+    <ClCompile Include="5.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="9.cpp" />
     <ClCompile Include="13.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="5.h" />
     <ClInclude Include="9.h" />
     <ClInclude Include="13.h" />
     <ClInclude Include="14.h" />
